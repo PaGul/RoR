@@ -1,5 +1,5 @@
 == README
 
-Это первое приложение для
-[*Ruby on Rails Tutorial*](http://railstutorial.org/)
- [Павел Гуляев].
+#Пример приложения RoR
+
+[*Павел Гуляев*](vk.com11902819)
